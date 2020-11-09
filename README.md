@@ -3,4 +3,8 @@ Thiết kế Website quản lý nhà hàng sử dụng Ngôn ngữ lập trình 
 <br><br>
 <b>*Quá trình thực hiện:</b>
 <br>
-       -9/11/2020: Xây dựng giao diện Front End gồm 6 trang: HomePage, About, Menu, Blog, Contact, BlogSingle
+-9/11/2020: Xây dựng giao diện Front End gồm 6 trang: HomePage, About, Menu, Blog, Contact, BlogSingle
+<br>
+<div align="center"> 
+    <img src="https://user-images.githubusercontent.com/70925960/98514281-c8daf480-229b-11eb-9bf8-59f42ecc06d9.png"</img> 
+</div> 
