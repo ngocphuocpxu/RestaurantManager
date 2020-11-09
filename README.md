@@ -3,4 +3,4 @@ Thiết kế Website quản lý nhà hàng sử dụng Ngôn ngữ lập trình 
 <br><br>
 <b>*Quá trình thực hiện:</b>
 <br>
-<i>&nbsp<i> -9/11/2020: Xây dựng giao diện Front End
+       -9/11/2020: Xây dựng giao diện Front End
