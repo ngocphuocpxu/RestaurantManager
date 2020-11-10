@@ -8,3 +8,9 @@ Thiết kế Website quản lý nhà hàng sử dụng Ngôn ngữ lập trình 
 <div align="center"> 
     <img src="https://user-images.githubusercontent.com/70925960/98514281-c8daf480-229b-11eb-9bf8-59f42ecc06d9.png"</img> 
 </div> 
+br>
+-Thiết kế Lớp Model và Database: <br>
++TABLE About Columns: id, title, shortContent, content, imageUrl
+11
+​<br>
++TABLE Blog Columns: Columns: id, title, short-content, full-content,  publish-date, image-url, views, likes, id-category
