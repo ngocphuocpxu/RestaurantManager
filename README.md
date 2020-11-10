@@ -9,7 +9,7 @@ Thiết kế Website quản lý nhà hàng sử dụng Ngôn ngữ lập trình 
     <img src="https://user-images.githubusercontent.com/70925960/98514281-c8daf480-229b-11eb-9bf8-59f42ecc06d9.png"</img> 
 </div> 
 <br>
--Thiết kế Lớp Model và Database sử dụng Entity FrameWork: <br>
+<b>-Thiết kế Lớp Model và Database sử dụng Entity FrameWork:</b> <br>
 +TABLE About Columns: id, title, shortContent, content, imageUrl
 
 ​<br>
