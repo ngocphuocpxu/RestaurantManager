@@ -1,6 +1,6 @@
 # RestaurantManager
 <b>Dự án Website quản lý nhà hàng sử dụng công nghệ ASP.NET with MVC</b>
-<br>
+<br><br>
 *<b>Các Nutget Packages được sử dụng:</b><br>
 <ul>
         <li>Microsoft.EntityFrameworkCore.SqlServer</li>
