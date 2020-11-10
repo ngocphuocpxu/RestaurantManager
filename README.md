@@ -1,13 +1,13 @@
 # RestaurantManager
-Thiết kế Website quản lý nhà hàng sử dụng công nghệ ASP.NET with MVC
+<b>Dự án Website quản lý nhà hàng sử dụng công nghệ ASP.NET with MVC</b>
 <br>
-*Các Nutget Packages sử dụng:<br>
+*<b>Các Nutget Packages sử dụng:</b><br>
 <ul>
         <li>Microsoft.EntityFrameworkCore.SqlServer</li>
         <li>+Microsoft.EntityFrameworkCore.Tools</li>
         <li>Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation</li>
     </ul>
-<br><br>
+<br>
 *Xây dựng giao diện Front End gồm 6 trang: HomePage, About, Menu, Blog, Contact, BlogSingle
 <br>
 <div align="center"> 
