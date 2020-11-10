@@ -9,10 +9,13 @@
     </ul>
 <br>
 *Xây dựng giao diện Front End gồm 6 trang: HomePage, About, Menu, Blog, Contact, BlogSingle
-<br>
+<br><br>
 <div align="center"> 
     <img src="https://user-images.githubusercontent.com/70925960/98514281-c8daf480-229b-11eb-9bf8-59f42ecc06d9.png"</img> 
 </div> 
-<br>
+<br><br>
+
+*Thiết kế database:<br><br>
+
 
 
