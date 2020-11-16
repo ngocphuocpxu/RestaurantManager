@@ -8,7 +8,7 @@
         <li>Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation</li>
     </ul>
 <br>
-<b>*Xây dựng giao diện Front End gồm 6 trang: </b>HomePage, About, Menu, Blog, Contact, BlogSingle
+<b>*Xây dựng giao diện Front End gồm 6 trang: </b>HomePage, About, Food, Blog, Contact, BlogSingle
 <br><br>
 <div align="center"> 
     <img src="https://user-images.githubusercontent.com/70925960/98514281-c8daf480-229b-11eb-9bf8-59f42ecc06d9.png"</img> 
